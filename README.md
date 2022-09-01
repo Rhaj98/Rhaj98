@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rhaj98
+- 👋 Hi, I’m @Rhaj
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning ASP.Net
 - 💞️ I’m looking to collaborate on ...
